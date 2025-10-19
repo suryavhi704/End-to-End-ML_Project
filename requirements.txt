@@ -2,9 +2,9 @@ pandas
 numpy
 seaborn
 matplotlib
+tensorflow
+keras
+streamlit
 scikit-learn
-catboost
-xgboost
-Flask
-
+pillow
 #-e .
